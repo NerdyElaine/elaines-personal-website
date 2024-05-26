@@ -1,0 +1,33 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Elaine Din",
+  "license": "MIT",
+  "description": "My first website",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@chakra-ui/system": "^2.6.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "cz-conventional-changelog": "^3.3.0",
+    "framer-motion": "^11.2.4",
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.3",
+    "prettier": "^3.2.5"
+  }
+}
