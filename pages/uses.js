@@ -62,8 +62,8 @@ const Uses = () => (
         <ListItem>8GB of Ram</ListItem>
         <ListItem>512GB of SSD Storage and 1TB of HDD Storage</ListItem>
         <ListItem>OS: Arch Linux (I use Arch, btw)</ListItem>
-        <ListItem>WM: BSPWM</ListItem>
-        <ListItem>Terminal: Kitty or Alacritty</ListItem>
+        <ListItem>WM: dwm</ListItem>
+        <ListItem>Terminal: Kitty</ListItem>
       </UnorderedList>
       <p>
         I wouldn't recommend getting a Gaming Laptop due to its power
@@ -72,7 +72,7 @@ const Uses = () => (
         now and using Linux has been very awesome especially being Unix based
         which made it easy to transition due to MacOS being Unix based. I use
         Arch due to it being a minimal distro due to me wanting to building it
-        from the ground up and using a tiling window manager(BSPWM) makes the
+        from the ground up and using a tiling window manager(dwm) makes the
         workflow of the system much more satisfying. I still keep this machine
         for some specific tasks and gaming due to gaming on Linux is starting to
         be more viable and accessible.
