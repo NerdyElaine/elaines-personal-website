@@ -12,7 +12,6 @@ import {
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import { FaStopwatch20 } from 'react-icons/fa'
-import Head from 'next/Head'
 
 const Uses = () => (
   <Container>
