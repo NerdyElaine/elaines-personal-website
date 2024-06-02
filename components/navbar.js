@@ -81,6 +81,18 @@ const Navbar = props => {
             Contacts
           </LinkItem>
           <LinkItem href="/uses">Uses</LinkItem>
+          <LinkItem
+            target="_blank"
+            href="https://github.com/NerdyElaine/elaines-personal-website}"
+            path={path}
+            display="inline-flex"
+            alignItems="center"
+            style={{ gap: 4 }}
+            pl={2}
+          >
+            <IoLogoGithub />
+            Source
+          </LinkItem>
         </Stack>
 
         <Box flex={1} align="right">
