@@ -4,7 +4,7 @@ import Paragraph from '../components/paragraph'
 
 const Contacts = () => (
   <Container>
-    <Heading as="h3" fontSize={20} mb={6}>
+    <Heading as="h2" fontSize={20} mb={6}>
       Contacts
     </Heading>
     <Paragraph>
