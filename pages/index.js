@@ -112,7 +112,7 @@ const Page = () => {
                 colorScheme="teal"
                 leftIcon={<IoLogoTumblr />}
               >
-                verynerdyelaine
+                @verynerdyelaine
               </Button>
             </Link>
           </ListItem>
