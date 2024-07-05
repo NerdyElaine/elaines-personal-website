@@ -62,7 +62,7 @@ const Uses = () => (
         <ListItem>8GB of Ram</ListItem>
         <ListItem>512GB of SSD Storage and 1TB of HDD Storage</ListItem>
         <ListItem>OS: Arch Linux (I use Arch, btw)</ListItem>
-        <ListItem>WM: BSPWM</ListItem>
+        <ListItem>WM: dwm</ListItem>
         <ListItem>Terminal: Kitty</ListItem>
       </UnorderedList>
       <p>
