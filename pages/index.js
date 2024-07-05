@@ -106,10 +106,7 @@ const Page = () => {
             </Link>
           </ListItem>
           <ListItem>
-            <Link
-              href="https://www.tumblr.com/blog/verynerdyelaine"
-              target="_blank"
-            >
+            <Link href="https://www.tumblr.com/verynerdyelaine" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
