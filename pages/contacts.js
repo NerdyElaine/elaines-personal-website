@@ -1,6 +1,6 @@
-import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
-import Section from '../components/section'
+import { Container, Heading } from '@chakra-ui/react'
 import Paragraph from '../components/paragraph'
+import Head from 'next/head'
 
 const Contacts = () => (
   <Container>
